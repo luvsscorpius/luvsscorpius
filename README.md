@@ -21,6 +21,6 @@
   Apaixonado por tecnologia e sempre em busca de aprender cada vez mais.
   
 
- 
+ ![Snake animation](https://github.com/luvsscorpius/luvsscorpius/blob/output/github-contribution-grid-snake.svg)
 
 
